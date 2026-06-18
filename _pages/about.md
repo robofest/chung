@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-![Home photo](/images/home.jpg)
+![Home photo](/images/Chung2024_square.JPG)
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pa[...]
