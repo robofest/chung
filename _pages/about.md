@@ -9,8 +9,10 @@ redirect_from:
 
 ![igvc teams](images/home.jpg)
 
-Chan-Jin "CJ" Chung is a professor of computer science at Lawrence Technological University, Southfield, Michigan. He is the founder of [Robofest](https://www.robofest.net/), founding director of CS Robotics Lab later renamed as the [CAR (CS AI Robotics)](https://ltu.edu/projects/car-cs-ai-robotics-lab/) Lab.
+Chan-Jin "CJ" Chung is a professor of computer science at Lawrence Technological University, Southfield, Michigan. He is the founder of 
+<a href="https://www.robofest.net/" target="_blank">Robofest</a> founding director of CS Robotics Lab later renamed as the
+<a href="https://ltu.edu/projects/car-cs-ai-robotics-lab/">CAR (CS AI Robotics)</a> Lab.
 
-Dr. Chung's [Wiki Page](https: https://en.wikipedia.org/wiki/Chan-Jin_Chung)
+Dr. Chung's <a href="https://en.wikipedia.org/wiki/Chan-Jin_Chung" target="_blank">Wiki page</a>
 
 ![robofest 2026 all](images/robofest2026all.jpg)
