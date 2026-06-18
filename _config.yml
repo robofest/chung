@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Professor"
+title                    : "Prof. CHUNG's Homepage"
 title_separator          : "-"
 name                     : &name "Chan-Jin (CJ) Chung, PhD"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -27,7 +27,7 @@ author:
   name             : "CJ Chung"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "J355"
   employer         : "Lawrence Technological University"
   uri              : "https://ltu.edu"
   email            : "cchung@ltu.edu" 
