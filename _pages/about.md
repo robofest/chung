@@ -9,4 +9,6 @@ redirect_from:
 
 ![Home photo](images/home.jpg)
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pa[...]
+CJ Chung is a professor of computer science at Lawrence Technological University, Southfield, Michigan. He is the founder of Robofest, Founding director of CS Robotics Lab later renamed as the Cs AI Robotics (CAR) Lab.
+
+![Home photo](images/robofest2026all.jpg)
