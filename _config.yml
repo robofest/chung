@@ -9,14 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Prof. CHUNG's Homepage"
+title                    : "CJ CHUNG's Homepage"
 title_separator          : "-"
 name                     : &name "Chan-Jin (CJ) Chung, PhD"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://robofest.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+description              : &description "CJ Chung's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://robofest.github.io/chung # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/chung"
-repository               : "academicpages/academicpages.github.io"
+repository               : "chung/robofest.github.io"  # <============ ???
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,9 +25,9 @@ author:
   # Biographic information
   avatar           : "Chung2024_square.JPG"
   name             : "CJ Chung"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "J355"
+  pronouns         : # example: "He/his"  
+  bio              : "Prof. of Computer Science and Director of the CAR lab"
+  location         : "Office: J355, Lab: J234 and M215A"
   employer         : "Lawrence Technological University"
   uri              : "https://ltu.edu"
   email            : "cchung@ltu.edu" 
@@ -35,10 +35,10 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=ZvN7KEAAAAAJ&hl"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-3485-6758"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -58,7 +58,7 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         : "https://www.facebook.com/cj.chung1/" # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/cjchung1/" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
