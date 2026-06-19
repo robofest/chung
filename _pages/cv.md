@@ -22,11 +22,11 @@ Skills
 ======
 * To be listed
 
-<a href="https://robofest.github.io/chung/publications/"><h2>Publications</h2></a>
+<a href="https://robofest.github.io/chung/publications/"><h1>Publications</h1></a>
 
-<a href="https://robofest.github.io/chung/talks/">Talks</a>
+<a href="https://robofest.github.io/chung/talks/"><h1>Talks</h1></a>
 
-<a href="https://robofest.github.io/chung/teaching/">Teaching</a>
+<a href="https://robofest.github.io/chung/teaching/"><h1>Teaching</h1></a>
   
 Service and leadership
 ======
