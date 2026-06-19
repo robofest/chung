@@ -12,7 +12,7 @@ author_profile: true
 *	US Army GVSC RTKLA Task 3, Dec 2019 ~ Dec 2020, Subcontract with GLST, $50,000, Role: PI
 *	US Army GVSC RTKLA (Robotics Technology Kernel Logistics Automation) Task 1 & 2, Oct 1, 2018 ~ Nov 2019, Subcontract with GLST, $75,000, Role: PI
 *	Robotics Power Use, Inventory and Logistical Management Evaluation, with PI Robert Fletcher; Funded by TARDEC (Tank-Automotive Research, Development and Engineering Center), Subcontract by Battelle, TCN:  07-261, amount: $168,000.
-*	
+*	...
 
 ## Industry Sponsored Project Grants Awarded
 *	Computer-Vision-Based Venous Blood Volume Sensor (Phase III), Funded by ORRUM, Role Co-PI, PI Dr. Hao Jiang, BME, $28,410, May1 2026 – Apr 30 2027
@@ -21,5 +21,5 @@ author_profile: true
 *	...
 
 ## Major In-Kind Gifts Awarded
-* Multimodal Road Event Classification via Semi-Supervision and Missing Modality, PI: Vijay John, Co-PI: CJ Chung, 2x Jetson AGX Orin Dev Kit and 1x RTX PRO 6000 Server Edition (minimuo of $15,000 value) NVIDIA Academic Grant Program. June 9, 2026 
-
+* Multimodal Road Event Classification via Semi-Supervision and Missing Modality, PI: Vijay John, Co-PI: CJ Chung, 2x Jetson AGX Orin Dev Kit and 1x RTX PRO 6000 Server Edition (minimuo of $15,000 value) NVIDIA Academic Grant Program. June 9, 2026
+* ...
