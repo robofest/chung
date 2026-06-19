@@ -15,4 +15,5 @@ Chan-Jin "CJ" Chung is a professor of computer science at Lawrence Technological
 
 Dr. Chung's <a href="https://en.wikipedia.org/wiki/Chan-Jin_Chung" target="_blank">Wiki page</a>
 
+<hr>
 ![robofest 2026 all](images/robofest2026all.jpg)
