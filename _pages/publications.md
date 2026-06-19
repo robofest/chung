@@ -27,3 +27,4 @@ author_profile: true
 * Chan J. Chung et al., "Software Development System (SDS) for TDX-1," The ETRI Journal, Vol. 8, No. 2, Jul. 1986, pp. 135-151 (in Korean)
 * Chan J. Chung and Y.S. Chun, "TDX-1 Software Structure," Daedog Science Town Journal, Mar. 1985 (in Korean)
 ## Conference Paper Articles
+* To be listed
