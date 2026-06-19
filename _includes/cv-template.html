@@ -44,7 +44,7 @@
       
       {% if cv.basics.location.city %}
       <div class="cv-contact-item">
-        <i class="fas fa-map-marker-alt"></i> {{ cv.basics.location.city }}{% if cv.basics.location.region %}, {{ cv.basics.location.region }}{% endif %}{% if cv.basics.location.countryCode %}, {{ cv.basics.location.countryCode }}{% endif %}
+        <i class="fas fa-map-marker-alt"></i> {{ cv.basics.location.city }}{% if cv.basics.location.region %}, {{ cv.basics.location.region }}{% endif %}{% if cv.basics.location.countryCode %}, {{[...]
       </div>
       {% endif %}
     </div>
@@ -226,9 +226,9 @@
   {% endif %}
   
   {% if cv.portfolio.size > 0 %}
-  <!-- Portfolio -->
+  <!-- Grants -->
   <div class="cv-section">
-    <h2>Portfolio</h2>
+    <h2>Grants</h2>
     <ul class="cv-list">
       {% for item in cv.portfolio %}
       <li class="cv-item">
