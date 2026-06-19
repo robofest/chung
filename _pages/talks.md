@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
@@ -12,4 +12,4 @@ Add your talks here in regular Markdown, or include whatever content you want to
 If you still want to use the existing _talks collection for automatic talk pages, you can either:
 
 - Keep the files in the _talks directory and list them here manually, or
-- Re-enable a collection-based listing by adding a Liquid loop (e.g. `{% raw %}{% for post in site.talks reversed %}{% endraw %}`) back into this file.
+- Re-enable a collection-based listing by adding a Liquid loop (e.g. `{% for post in site.talks reversed %}`) back into this file.
