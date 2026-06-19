@@ -3,7 +3,7 @@ permalink: /teaching/
 title: "Teaching and Class Projects"
 author_profile: true
 redirect_from:
-  - /teaching.html
+  - /teaching.md
 ---
 ## Class Projects and Posters
 * To be listed here
