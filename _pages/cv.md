@@ -24,9 +24,9 @@ Skills
 
 <h1><a href="https://robofest.github.io/chung/publications/">Publications</a></h1>
 
-<a href="https://robofest.github.io/chung/talks/"><h1>Talks</h1></a>
+<h1><a href="https://robofest.github.io/chung/talks/">Talks</a></h1>
 
-<a href="https://robofest.github.io/chung/teaching/"><h1>Teaching</h1></a>
+<h1><a href="https://robofest.github.io/chung/teaching/">Teaching</a></h1>
   
 Service and leadership
 ======
