@@ -22,7 +22,7 @@ Skills
 ======
 * To be listed
 
-<a href="https://robofest.github.io/chung/publications/">Publications </a>
+<a href="https://robofest.github.io/chung/publications/"><h2>Publications</h2></a>
 
 <a href="https://robofest.github.io/chung/talks/">Talks</a>
 
