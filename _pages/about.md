@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![igvc teams](images/home.jpg)
+![igvc teams](images/car_lab_footer.jpg)
 
 Chan-Jin "CJ" Chung is a professor of computer science at Lawrence Technological University, Southfield, Michigan, USA. He's projects and programs include:
 
