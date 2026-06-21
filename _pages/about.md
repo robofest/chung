@@ -15,7 +15,7 @@ Chan-Jin "CJ" Chung is a professor of computer science at Lawrence Technological
 * Autonomous Robotics Competition <a href="https://www.robofest.net/" target="_blank">Robofest</a>, Founder and Advisory Board Chair
 * CS Robotics Lab later renamed as the
   <a href="https://ltu.edu/projects/car-cs-ai-robotics-lab/">CAR (CS AI Robotics)</a> Lab (LTU page); 
-  <a href-"https://robofest.github.io/car/" target="_blank">Official The CAR Lab page</a>
+  <a href="https://robofest.github.io/car/" target="_blank">Official The CAR Lab page</a>
 * <a href="https://www.robofest.net/CSPA/" target="_blank">Math Dance</a>, Integrated STEaM and AI program for K-12 students
 * Self-Drive Algorithm Development: an established workforce development model for upskilling next-generation engineering and CS talent based on the <a href="https://ltu.edu/arts-and-sciences/department-of-math-and-computer-science/nsf-reu/)" target="_blank">NSF REU (2022-2025)</a>
 program specializing in the development of autonomous navigation algorithms and robust, multi-sensor perception AI models. 
